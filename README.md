@@ -1,2 +1,2 @@
-# exercise1-JS
+# all exercise3-JS
 Exercise for JS 
